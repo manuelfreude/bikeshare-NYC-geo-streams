@@ -8,6 +8,6 @@
   https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_origin_destination.html
 - Loaded final dataset into tableau to visualize bike traffic, e.g. at Brooklyn Bridge
 
-## Brooklyn Bridge Bikers (origin and destination)
+## Brooklyn Bridge bikers (origin and destination)
 
 ![Traffic](https://github.com/manuelfreude/bikeshare-NYC-geo-streams/blob/master/20180204_Brooklyn%20Bridge%20Bikers.png)

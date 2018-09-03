@@ -5,7 +5,7 @@
   - Trip duration
   - Date and weekday of trip
 - Modified dataset to capture origin and destination GPS coordinates in separate rows
-  Source: https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_origin_destination.html
+  https://onlinehelp.tableau.com/current/pro/desktop/en-us/maps_howto_origin_destination.html
 - Loaded final dataset into tableau to visualize bike traffic, e.g. at Brooklyn Bridge
 
 ## Brooklyn Bridge Bikers (origin and destination)

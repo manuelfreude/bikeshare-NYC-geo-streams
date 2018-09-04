@@ -1,5 +1,5 @@
 # NYC bikeshare data wrangling and visualization
-Project context: Udacity Machine Learning Nanodegree
+Project context: Udacity Data Analyst Nanodegree
 ## Python coding and tableau visualization project summary
 
 - Cleaned bikeshare datasets from NYC, Chicago, Washington and defined functions to calculate
